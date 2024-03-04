@@ -1,0 +1,22 @@
+﻿0.09,Attacks,RMSE with models,RMSE with perturbed models,Adversarial RMSE
+LSTM,FGSM,0.04,0.13,0.08
+,BIM,,0.13,0.11
+,PGD,,0.12,0.08
+Stacked LSTM,FGSM,0.04,0.12,0.08
+,BIM,,0.12,0.1
+,PGD,,0.1,0.09
+GRU,FGSM,0.04,0.16,0.1
+,BIM,,0.16,0.12
+,PGD,,0.14,0.1
+RNN,FGSM,0.03,0.16,0.1
+,BIM,,0.16,0.13
+,PGD,,0.13,0.1
+CNN,FGSM,0.04,0.14,0.08
+,BIM,,0.14,0.11
+,PGD,,0.12,0.1
+CNN-LSTM,FGSM,0.05,0.18,0.8
+,BIM,,0.18,0.12
+,PGD,,0.16,0.1
+ConvLSTM,FGSM,0.03,0.14,0.8
+,BIM,,0.14,0.13
+,PGD,,0.13,0.1

@@ -1,0 +1,24 @@
+Final course project: written report + oral presentation 
+
+Written report deadline: 4/22 (Friday, 11:59 pm est); sent to liusiji5@msu.edu
+
+Presentation week: The week of 4/25 
+
+Please see Lecture 20 notes for more information. In what follows, I repeat some details. 
+
+Writing requirements (same as HW1 and HW2) except the following:
+▶ Individual submission: 4 pages.
+▶ Group submission: 6 − 8 pages.
+▶ NeurIPS-template: In group submission, needs a section entitled ’Individual Contributions’ to clearly define tasks/contributions done by each group member.
+
+Other requirements of the final course project:
+
+1) You are free to choose the project topic only if it is correlated to the course content. 
+
+2) We allow either individual project submission or group-wise project submission; see requirements below.
+▶ Up to n group members (n ≤ 3) (start to form groups now)
+▶ Project contains at least n ‘intellectual merits’ (i.e., contributions)
+▶ ‘Intellectual merits’ (contributions) can be justified by problem setup, formulation, methodology, applications, experiment performance etc.
+▶ General principle: Only if you see and can justify why a contribution is significant (to some extent), then it is an ‘intellectual merit’.
+
+3) If you are unsure about the course project topic and requirements, please feel free to discuss them with me after classes or via email.
